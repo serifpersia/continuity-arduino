@@ -1,5 +1,3 @@
-package com.serifpersia.pianoled;
-
 import java.awt.Color;
 import java.awt.GridLayout;
 
