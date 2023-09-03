@@ -1,3 +1,5 @@
+// To use you need to connect one wire to gnd pin and one wire to a digital pin I used pin 7
+// Once both wires make connection java program will beep and change color
 const int wirePin = 7;  // Pin connected to the wire
 const int ledPin = 13;  // Built-in LED on Arduino
 const int debounceDelay = 35;  // Adjust this value based on your requirements
