@@ -1,5 +1,8 @@
 # continuity-arduino
 Continuity Tester Using Arduino
+
+# Download
+[Download](https://github.com/serifpersia/continuity-arduino/releases)
 # Usage
 Connect one wire to gnd pin and another to any of the digital pins you want I used pin 7. After connecting
 with arduino board from the java app you will hear tone when both wires are touching and the color will change to red
