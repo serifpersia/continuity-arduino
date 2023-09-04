@@ -1,5 +1,6 @@
-package ArduinoContinuity.continuity;
 
+package ArduinoContinuity.continuity;
+ 
 import java.awt.Color;
 import java.awt.GridLayout;
 
